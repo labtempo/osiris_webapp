@@ -1,0 +1,30 @@
+.main_menu_side {
+    margin-top: 20px !important; 
+}
+.align-center {
+    text-align: center;
+}
+
+html, body, #osiris, .nav-md, .container.body, .main_container {
+    height: 100%;
+}
+.right_col {
+     min-height: 100%; 
+}
+
+.main_container {
+    position: relative;
+}
+
+.main-footer {
+    bottom: 0;
+    left: 0;
+    margin: 0 !important;
+    position: fixed;
+    width: 100%;
+}
+
+.side-menu li:hover {
+    background: #2A4967;
+    cursor: pointer !important;
+}
